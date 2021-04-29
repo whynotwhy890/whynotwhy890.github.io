@@ -7,8 +7,8 @@ subtitle: growth since 2021.04
     {% if {page.title %}{{ page.title }} -{{site.title}}{% else %}{{ site.title }} - {{
     site.subtitle }}{% endif %}
   </title>
-<div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+<div class="posts" id="posts">
+  <h1 class="pageTitle">Posts</h1>
   <ul class="posts noList">
     {%- for post in paginator.posts -%}
       <li>
