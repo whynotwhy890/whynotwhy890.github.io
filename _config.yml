@@ -20,6 +20,10 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+#  - title: About
+#    url: /about
+#  - title: About
+#    url: /about
   - title: Posts
     url: /index2.html
 social:
