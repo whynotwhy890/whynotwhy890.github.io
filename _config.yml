@@ -20,11 +20,11 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-# - title: Contact
-#    url: /contact
+  - title: Blog
+    url: /Blog
 
 social:
-  github: brianmaierjr
+  github: kwon0202
 #  twitter: brianmaierjr
 #  facebook: brianmaierjr
   email: kyoungwon0202@gmail.com
