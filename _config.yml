@@ -1,4 +1,4 @@
-title: kwon
+title: kyoungwon
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 typewrite-text: Be better Be growth Everyday 
 
@@ -28,17 +28,17 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+# - title: Contact
+#    url: /contact
 
 social:
   github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+#  twitter: brianmaierjr
+#  facebook: brianmaierjr
+  email: kyoungwon0202@gmail.com
+#  linkedin: brianmaierjr
 
 google_analytics: 
 
 disqus:
-    shortname: brianmaierjr
+    shortname: kwon0202
