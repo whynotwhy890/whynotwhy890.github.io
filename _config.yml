@@ -25,7 +25,7 @@ navigation:
 #  - title: About
 #    url: /about
   - title: Posts
-    url: /index2.html
+    url: /articles
 social:
   github: kwon0202
 #  twitter: brianmaierjr
