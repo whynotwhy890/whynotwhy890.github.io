@@ -21,7 +21,7 @@ navigation:
   - title: About
     url: /about
   - title: Blog
-    url: /Blog
+    url: /blog
 
 social:
   github: kwon0202
