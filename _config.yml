@@ -21,7 +21,7 @@ navigation:
   - title: About
     url: /about
   - title: Blog
-    url: /contact
+    url: /index.html
 social:
   github: kwon0202
 #  twitter: brianmaierjr
