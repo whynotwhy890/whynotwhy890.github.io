@@ -1,5 +1,14 @@
 title: kwon
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+typewrite-text: Be better Be growth Everyday 
+
+<script>
+  $(document).ready(function() {
+    $("#typewriteText").typewrite({
+      actions: [{ type: "{{site.typewrite-text}}" }]
+    });
+  });
+</script>
 
 url: "https://kwon0202.github.io"
 baseurl: "/"
