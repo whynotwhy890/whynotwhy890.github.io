@@ -20,7 +20,7 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Blog
+  - title: posts
     url: /index2.html
 social:
   github: kwon0202
