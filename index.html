@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Long Haul
+title: kwon0202 blog
+subtitle: growth since 2021.04
 ---
-
+<title>
+    {% if {page.title %}{{ page.title }} -{{site.title}}{% else %}{{ site.title }} - {{
+    site.subtitle }}{% endif %}
+  </title>
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
