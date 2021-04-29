@@ -1,8 +1,8 @@
 title: kwon
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://kwon0202.github.io/
-baseurl: "/kwon0202"
+url: https://kwon0202/kwon0202.github.io
+baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
