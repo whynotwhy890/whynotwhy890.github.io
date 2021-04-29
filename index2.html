@@ -4,8 +4,8 @@
     {% if {page.title %}{{ page.title }} -{{site.title}}{% else %}{{ site.title }} - {{
     site.subtitle }}{% endif %}
   </title>
-<div class="blog" id="blog">
-  <h1 class="pageTitle">Blog Posts</h1>
+<div class="post" id="post">
+  <h1 class="pageTitle">My Posts</h1>
   <ul class="posts noList">
     {%- for post in paginator.posts -%}
       <li>
