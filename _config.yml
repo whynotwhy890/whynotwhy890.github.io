@@ -1,6 +1,5 @@
 title: kyoung_won
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-typewrite-text: Be better Be growth Everyday 
+description: Be better Be growth Everyday 
 
 url: "https://kwon0202.github.io"
 baseurl: "/"
@@ -25,7 +24,7 @@ navigation:
 #  - title: About
 #    url: /about
   - title: Posts
-    url: /index2.html
+    url: /posts
 social:
   github: kwon0202
 #  twitter: brianmaierjr
