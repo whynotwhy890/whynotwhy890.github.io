@@ -38,5 +38,3 @@ google_analytics:
 disqus:
     shortname: kwon0202
     
-    category_dir: category/
-tag_dir: tag/
