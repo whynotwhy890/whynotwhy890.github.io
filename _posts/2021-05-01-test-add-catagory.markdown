@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "카테고리 넣기"
+title:  "2. 카테고리 넣기"
 date:   2021-05-01
 categories: [blog]
 ---
