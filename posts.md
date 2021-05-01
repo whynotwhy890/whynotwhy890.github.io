@@ -2,9 +2,7 @@
 layout: default
 title: Posts
 ---
-<header class="site-category">
-  <ul>
-    
+<ul class="site-category">
     {% assign pages_list = site.pages %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -16,7 +14,7 @@ title: Posts
     {% endfor %}
     
 </ul>
-</header>
+
 <div id="posts">
   <h1>Posts</h1>
   <ul class="posts noList">
