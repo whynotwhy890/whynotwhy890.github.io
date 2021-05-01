@@ -24,7 +24,7 @@ navigation:
 #    url: /about
 #  - title: About
 #    url: /about
-  - title: Posts
+  - title: Articles
     url: /articles
 social:
   github: kwon0202
