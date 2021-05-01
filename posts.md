@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Posts
+title: Your New Jekyll Site
 ---
 
-<div id="posts">
-  <h1>Posts</h1>
+<div id="articles">
+  <h1>Articles</h1>
   <ul class="posts noList">
     {%- for post in site.posts -%}
       <li>
