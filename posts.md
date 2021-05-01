@@ -5,7 +5,7 @@ title: Posts
 
 
 <div id="posts">
-  <h1>Posts</h1>
+	<h1 class="pageTitle">Posts</h1>
   <ul class="posts noList">
     {%- for post in site.posts -%}
       <li>
