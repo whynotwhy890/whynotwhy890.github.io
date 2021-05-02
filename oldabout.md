@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Kyoung_won
+title: About Me
 ---
 
 <div class="post">
